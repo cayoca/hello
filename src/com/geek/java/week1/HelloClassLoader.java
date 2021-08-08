@@ -1,4 +1,4 @@
-package com.cayoca.boot;
+package com.geek.java.week1;
 
 import java.io.File;
 import java.io.FileInputStream;
